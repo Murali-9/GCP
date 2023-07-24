@@ -1,6 +1,5 @@
 
 /****** Object Lifecycle Management Config JSON File  Example ****************/
-
 {
     "lifecycle": {
       "rule": [

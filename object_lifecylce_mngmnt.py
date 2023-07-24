@@ -1,7 +1,6 @@
 '''
 Author : @ Anjan GCP Data Engineering
 Created SQLs required for Big Query Procedures and Anonymous Blocks Demo
-
 This code is to demo , how to define and manage GCS Object LifeCycle Management rules using Python Client Libraries
 '''
 
